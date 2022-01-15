@@ -1,0 +1,21 @@
+nav{
+    width:100px;
+    background-color:aqua;
+    height: 100%;
+    position: fixed;
+    left: 0;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+a{
+    display: block;
+    padding: 20px;
+}
+section{
+    position: fixed;
+    right: 515px;
+    background-color: #32435b;
+    height: 100%;
+}

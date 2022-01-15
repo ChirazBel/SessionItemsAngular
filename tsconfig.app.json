@@ -10,6 +10,7 @@
     "src/polyfills.ts"
   ],
   "include": [
+    "../../../libs/crm-ui/user/index.ts",
     "src/**/*.d.ts"
   ]
 }
